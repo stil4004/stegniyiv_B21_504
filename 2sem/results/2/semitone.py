@@ -8,7 +8,6 @@ def image_to_np_array(image_name: str) -> np.array:
     return np.array(img_src)
 
 
-# Fhotoshop semitone.
 def semitone(img):
     return (0.3 * img[:, :, 0] + 0.59 * img[:, :, 1] + 0.11 *
             img[:, :, 2]).astype(np.uint8)
