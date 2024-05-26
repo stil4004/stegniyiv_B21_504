@@ -1,0 +1,35 @@
+phrase:      ངུ་ུ་ུ་ུུ་ུ་ུྱུ་ུ་ུཡུ་ུ་ུཡུ་ཀ།
+detected:    ངུུུཡུུུུ་ུ་ུངུུུ་ུཡུ་ུ་ུཡུ་ྱ 
+correct:     77%
+
+has | got | correct
+ང	ང	True
+ུ	ུ	True
+་	ུ	False
+ུ	ུ	True
+་	ཡ	False
+ུ	ུ	True
+་	ུ	False
+ུ	ུ	True
+ུ	ུ	True
+་	་	True
+ུ	ུ	True
+་	་	True
+ུ	ུ	True
+ྱ	ང	False
+ུ	ུ	True
+་	ུ	False
+ུ	ུ	True
+་	་	True
+ུ	ུ	True
+ཡ	ཡ	True
+ུ	ུ	True
+་	་	True
+ུ	ུ	True
+་	་	True
+ུ	ུ	True
+ཡ	ཡ	True
+ུ	ུ	True
+་	་	True
+ཀ	ྱ	False
+།	 	False
